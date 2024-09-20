@@ -9,11 +9,6 @@ This is the official website for **Vihaas Design Technology**, built using moder
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Responsive Design**: Fully responsive website designed with Tailwind CSS for seamless experience across all devices.
@@ -25,4 +20,3 @@ This is the official website for **Vihaas Design Technology**, built using moder
 - **Frontend**: React, JavaScript (ES6+), Tailwind CSS, React Router, HTML5, CSS3
 - **Build Tools**: Webpack, Babel
 - **Version Control**: Git & GitHub
-
